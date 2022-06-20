@@ -1,1 +1,3 @@
-# alien-invasion
+## Alien Invasion
+
+### Built with Pygame
